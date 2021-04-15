@@ -1,2 +1,3 @@
-# academic
- repositório de projetos acadêmicos
+# Acadêmicos
+
+ repositório de projetos acadêmicos desenvolvidos durante a faculdade
