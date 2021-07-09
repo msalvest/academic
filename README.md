@@ -1,3 +1,3 @@
 # Acadêmicos
 
- repositório de projetos acadêmicos desenvolvidos durante a faculdade
+projetos desenvolvidos durante cursos e faculdade!
